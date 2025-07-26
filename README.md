@@ -20,6 +20,8 @@ sudo apt install python3-tk
 
 git clone https://github.com/Iankulani/preontekQoS.py
 
+cd preontekQoS
+
 **How to run**
 
 python3 preontekQoS.py
