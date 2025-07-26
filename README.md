@@ -11,9 +11,21 @@ sudo apt update && sudo apt upgrade -y
 
 sudo apt install python3-pip
 
+**Install pip**
+
+sudo apt install python3-pip
+  
 **Install tk**
 
 sudo apt install python3-tk
+
+**Install scapy**
+
+sudo apt install python3-scapy
+
+**Install ping3**
+
+pip install ping3 --break-system-packages
 
 
 **Clone preontek repositoty** 
@@ -25,3 +37,8 @@ cd preontekQoS
 **How to run**
 
 python3 preontekQoS.py
+
+<img width="1920" height="1001" alt="Screenshot (694)" src="https://github.com/user-attachments/assets/d9185971-5f03-4fdd-9789-0178057875da" />
+
+
+
